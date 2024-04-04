@@ -24,9 +24,11 @@ And get the following 2 id's:
 
 ![image](https://github.com/yZ1337/Discord-Bee-Auto-Voter/assets/32521997/926529cb-060e-40e4-96ad-75e5414114b7)
 
-5. Put id's in info.json
+5. Put id's in `info.json`
 
-6. Run it and enjoy :)
+6. Add proxies to `proxies.txt`
+
+7. Run it and enjoy :)
 ```
 python3 discordbee.py
 ```
