@@ -21,7 +21,8 @@ First go to your voting page of your Discord server.
 Do `ctrl + i` in your browser and click on the network tab.
 Now click on the vote button.
 And get the following 2 id's:
-![image](https://github.com/yZ1337/Discord-Bee-Auto-Voter/assets/32521997/a4903fd3-aead-4a41-bcdb-39945e26ce55)
+![image](https://github.com/yZ1337/Discord-Bee-Auto-Voter/assets/32521997/926529cb-060e-40e4-96ad-75e5414114b7)
+
 
 5. Put id's in info.json
 
