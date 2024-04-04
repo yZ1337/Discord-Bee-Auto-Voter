@@ -33,4 +33,6 @@ And get the following 2 id's:
 python3 discordbee.py
 ```
 
+![image](https://github.com/yZ1337/Discord-Bee-Auto-Voter/assets/32521997/45db6af3-daee-43b4-ae5b-0b326f37fac0)
+
 
