@@ -23,7 +23,7 @@ Now click on the vote button.
 And get the following 2 id's:
 ![image](https://github.com/yZ1337/Discord-Bee-Auto-Voter/assets/32521997/a4903fd3-aead-4a41-bcdb-39945e26ce55)
 
-5.Put id's in info.json
+5. Put id's in info.json
 
 6. Run it and enjoy :)
 ```
