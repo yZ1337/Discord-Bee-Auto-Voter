@@ -35,6 +35,8 @@ And get the following 2 id's:
 python3 discordbee.py
 ```
 
+The website discordbee.com is very slow. This is why the script will take multiple seconds to do 1 vote.
+
 ![image](https://github.com/yZ1337/Discord-Bee-Auto-Voter/assets/32521997/b463c142-3d28-4367-933a-58e3a0b5cf16)
 
 
