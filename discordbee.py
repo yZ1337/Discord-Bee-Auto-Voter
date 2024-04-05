@@ -18,8 +18,6 @@ server_id = data['server_vote_link']
 d_id = data['d_id']
 
 def main():
-    date_and_time = datetime.now()
-    time = date_and_time.strftime('%H:%M:%S')
     proxies_file = open('proxies.txt', 'r')
     proxies_list = [line.strip() for line in proxies_file.readlines()]
     random.shuffle(proxies_list)
@@ -43,6 +41,8 @@ def main():
     }
     while True:
         try:
+            date_and_time = datetime.now()
+            time = date_and_time.strftime('%H:%M:%S')
             form_url = f"https://discordbee.com/voting?server={server_id}&vote=1&d={d_id}"
 
             form_payload = {
