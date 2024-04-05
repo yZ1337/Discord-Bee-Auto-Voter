@@ -1,5 +1,7 @@
 # Discordbee Auto Voter
 
+This is a script that automatically votes multiple times for your server on discordbee.com.
+
 **DISCLAIMER:** This repo is for educational purpose only. Use at your own risk! I am not responsible for any harm you do with this script.
 
 ## How To Use
