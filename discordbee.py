@@ -3,6 +3,7 @@ import random
 from datetime import datetime
 from colorama import Fore
 import json
+from pyfiglet import Figlet
 
 GREEN = Fore.GREEN
 BLUE = Fore.BLUE
@@ -16,6 +17,11 @@ with open('info.json', 'r') as file:
 
 server_id = data['server_vote_link']
 d_id = data['d_id']
+
+custom_fig = Figlet(font='small')
+print(custom_fig.renderText('Discordbee Auto Voter'))
+print(f"Created by: {BLUE}yZ {RESET}")
+print("https://github.com/yZ1337\n")
 
 def main():
     proxies_file = open('proxies.txt', 'r')
