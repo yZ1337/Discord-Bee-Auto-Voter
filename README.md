@@ -18,7 +18,7 @@ git clone https://github.com/yZ1337/Discord-Bee-Auto-Voter.git
 pip install -r requirements.txt
 ```
 
-3. Get the server id and d id:
+3. Get the `server` id and `d` id:
 First go to your voting page of your Discord server.
 Do `ctrl + i` in your browser and click on the network tab.
 Now click on the vote button.
