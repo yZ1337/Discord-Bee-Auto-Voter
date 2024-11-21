@@ -1,4 +1,4 @@
-# Discordbee Auto Voter
+# Discordbee.com Auto Voter
 
 This is a script that automatically votes multiple times for your server on discordbee.com.
 
